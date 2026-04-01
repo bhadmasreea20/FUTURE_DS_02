@@ -1,22 +1,25 @@
-Customer Retention & Churn Insights Dashboard
-Task Overview
+# Customer Retention & Churn Insights Dashboard
 
-This project is part of the Data Science & Analytics Internship by Future Interns (Task 2).
-It focuses on analyzing customer data to identify churn patterns and provide actionable insights to improve customer retention.
+## Objective  
+To analyze customer data and identify churn patterns, key retention drivers, and opportunities to improve customer retention in a subscription-based business.
 
-Tools Used
--Power BI
--Data Cleaning
--Data Visualization
+## Tools Used  
+- Power BI  
 
-Key Insights
--High churn observed among month-to-month contract customers
--Customers with higher monthly charges show increased churn rates
--Majority of churn occurs in early customer lifecycle stages
--Automatic payment methods reduce churn risk
+## Key Insights  
+- Month-to-month contract customers have the highest churn rate  
+- Customers with higher monthly charges are more likely to churn  
+- Majority of churn occurs in the early stages of customer lifecycle  
+- Customers using electronic check show higher churn compared to automatic payment methods  
 
-Business Recommendations
--Encourage long-term contracts through incentives
--Improve onboarding experience for new customers
--Optimize pricing strategies for high-cost plans
--Promote automatic payment methods
+## Recommendations  
+- Encourage long-term contracts to improve customer retention  
+- Enhance onboarding experience to reduce early-stage churn  
+- Optimize pricing strategies for high-cost plans  
+- Promote automatic payment methods for better retention  
+
+## Outcome  
+Developed a client-ready dashboard providing actionable insights to reduce churn and improve customer retention strategies.
+
+## Dashboard Preview  
+![Dashboard](dashboard.png)
